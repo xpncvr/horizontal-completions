@@ -6,7 +6,7 @@ Download the mod [here](https://modrinth.com/mod/horizontal-completions) from mo
 
 ### Preview
 
-
+<img width="480" height="270" alt="preview" src="https://github.com/user-attachments/assets/945095b5-68d5-49c3-8499-ca98372c1004" />
 
 ## License
 
