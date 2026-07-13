@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "horizontal-completions",
+	"version": "${version}",
+	"name": "Horizontal Completions",
+	"description": "Renders command completions as a horizontal row above the chat bar",
+	"authors": [
+		"xpncvr"
+	],
+	"contact": {
+	  "sources": "https://github.com/xpncvr/horizontal-completions"
+	},
+	"license": "AGPL-3.0-or-later",
+	"icon": "assets/horizontal-completions/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"project.xpncvr.hcompletions.HorizontalCompletions"
+		]
+	},
+	"mixins": [
+		"horizontal-completions.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.5",
+		"minecraft": "~26.1.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

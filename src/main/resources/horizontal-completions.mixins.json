@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "project.xpncvr.hcompletions.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"CommandSuggestionsMixin",
+		"SuggestionsListAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
