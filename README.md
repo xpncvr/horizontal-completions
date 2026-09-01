@@ -2,9 +2,10 @@
 
 Renders command completions as a horizontal row above the chat bar
 
-Download the mod [here](https://modrinth.com/mod/horizontal-completions) from modrinth
+**[Download here from Modrinth](https://modrinth.com/mod/horizontal-completions)**
 
-### Preview
+
+## Preview
 
 <img width="480" height="270" alt="preview" src="https://github.com/user-attachments/assets/945095b5-68d5-49c3-8499-ca98372c1004" />
 
